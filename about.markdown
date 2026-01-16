@@ -2,17 +2,39 @@
 layout: single
 title: About
 permalink: /about/
+
+# ROW 1
+person_1:
+  - image_path: /assets/images/headshot1.jpg
+    alt: "Keegan Doyle"
+    title: "Keegan Doyle"
+    excerpt: "[Enter Description Here]"
+
+# ROW 2
+person_2:
+  - image_path: /assets/images/PlaceholderHeadshot.jpg
+    alt: "Tyler Bish"
+    title: "Tyler Bish"
+    excerpt: "[Enter Description Here]"
+
+# ROW 3
+person_3:
+  - image_path: /assets/images/PlaceholderHeadshot.jpg
+    alt: "Ayush Singh"
+    title: "Ayush Singh"
+    excerpt: "[Enter Description Here]"
+
+# ROW 4
+person_4:
+  - image_path: /assets/images/PlaceholderHeadshot.jpg
+    alt: "EJ Jones"
+    title: "EJ Jones"
+    excerpt: "[Enter Description Here]"
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Meet the Team
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+{% include feature_row id="person_1" %}
+{% include feature_row id="person_2" %}
+{% include feature_row id="person_3" %}
+{% include feature_row id="person_4" %}
