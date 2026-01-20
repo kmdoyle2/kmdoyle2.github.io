@@ -13,13 +13,20 @@ This website uses the Minimal Mistakes Jekyll theme. To take advantage of the Mi
 ## How to Run Locally
 
 1. Clone the GitHub repo to a local repo on your machine
-2. Install dependencies using the command (or whenevr the Gemfile is updated) ```bash bundle install ```
-3. Start the server ```bash bundle exec jekyll serve ```
+2. Install dependencies using the command (or whenevr the Gemfile is updated)
+   ```bash
+   bundle install
+   ```
+4. Start the server
+   ```bash
+   bundle exec jekyll serve
+   ```
 
 ## Project Structure
-File/Folder         Description
-_config.yml:        "Main site settings (title, description, theme)."
-index.md:           The Homepage. Edit this to update the project goals.
-deliverables.md:    The Deliverables page. Add links to PDFs/PPTs here.
-about.md:           The Team page. Update bios and photos here.
-assets/images/:     "Upload photos here. (e.g., assets/images/profile.jpg)"
+| File / Folder | Description |
+| :--- | :--- |
+| `_config.yml` | Main site settings (title, description, theme). |
+| `index.md` | The Homepage. Edit this to update the project goals. |
+| `deliverables.md` | The Deliverables page. Add links to PDFs/PPTs here. |
+| `about.md` | The Team page. Update bios and photos here. |
+| `assets/images/` | Upload photos here. (e.g., `assets/images/profile.jpg`) |
