@@ -1,4 +1,4 @@
-# Insighters Inc. Capstone Project
+# Insighters Inc. Capstone Project Website
 
 This is the repository for the preliminary and final website for the Insighters Inc. workflow capstone project.
 
