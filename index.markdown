@@ -12,14 +12,6 @@ title: "Insighters Inc Automation"
 excerpt: "Streamlining business processes with intelligent workflow solutions."
 ---
 
-## Welcome to the Project
+## Project Goals
+This is where the project goals will go.
 
-This is the main content area. Testing.
-
-You can use [Grid Classes](https://mmistakes.github.io/minimal-mistakes/docs/utility-classes/#grids) here to create columns if you want features side-by-side.
-
-### Feature 1
-Description of the feature goes here.
-
-### Feature 2
-Description of the feature goes here.
