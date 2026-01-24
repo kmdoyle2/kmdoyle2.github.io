@@ -4,15 +4,10 @@ title: Deliverables
 permalink: /deliverables/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Project Pitch
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+[![Project Pitch Preview](/assets/images/project-pitch-preview.png){: width="75%"}](/assets/documents/ProjectPitch.pdf)
+{: .text-center}
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+[View Project Pitch PDF](/assets/documents/ProjectPitch.pdf){: .btn .btn--primary .btn--large}
+{: .text-center}
