@@ -2,6 +2,8 @@
 
 This is the repository for the preliminary and final website for the Insighters Inc. workflow capstone project.
 
+To visit the website, please follow this link - https://kmdoyle2.github.io/
+
 ## Prerequisites
 
 Before you can run this site locally, you must install Jekyll, Bundler, and Ruby. The installation guide for all systems can be found at this website - https://jekyllrb.com/docs/installation/
