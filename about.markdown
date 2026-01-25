@@ -19,7 +19,7 @@ team:
 
   - name: "EJ Jones"
     image_path: /assets/images/PlaceholderHeadshot.jpg
-    bio: "[Enter Description Here]"
+    bio: "test"
 ---
 
 ## Meet the Team
