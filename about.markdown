@@ -18,7 +18,7 @@ team:
     bio: "[Enter Description Here]"
 
   - name: "EJ Jones"
-    image_path: /assets/images/DSG_Interns-0026-2-Edit.jpeg
+    image_path: /assets/images/IMG_3168.JPG
     bio: "I am a Computer Science major with a concentration in Cybersecurity. My coding skill set is mainly in C/C++. I have gained a lot of expreince in the Cybersecurity field with numerous internships throughout my 5 years in college. I plan to get my Security+ this year so I can further my career in Cybersecurity. When I am not working with computers, I am interested in cooking, playing basketball, and listening to music. Recently, I have been interested in learning how to home lab, so I can play around with networking in the future."
 ---
 
