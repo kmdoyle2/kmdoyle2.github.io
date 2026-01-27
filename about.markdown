@@ -14,7 +14,7 @@ team:
     bio: "I am a Computer Science and Computer Engineering double major student pursuing my B.S. in both fields at The University of Alabama. Through my educational background dealing with both computer hardware and software, I am equipped to tackle almost any computer related problem with ease. I have experience applying my skills in software engineering and data analytics through back-to-back internships as a Quantitative Developer and Fixed Income Developer at StoneX Group Incorporated, a global financial services franchise. I am interested in exploring the intersection between finance and technology, as well as developing my skillset in software automation and machine learning integration."
 
   - name: "Ayush Singh"
-    image_path: /assets/images/calley-ayush.png
+    image_path: /assets/images/ayush.png
     bio: "I’m a Computer Science student at The University of Alabama with a concentration in Cyber Security and part of the Accelerated Master’s Program. I have hands-on experience with programming in Python, C/C++, Java, and SQL, along with practical exposure to cybersecurity competitions and network security labs. Beyond academics, I’ve taken on leadership roles in student organizations, managing budgets and coordinating events, and I value teamwork, organization, and clear communication. I’m passionate about technology, problem-solving, and continuously building skills that make a real-world impact."
 
 
