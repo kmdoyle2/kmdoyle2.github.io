@@ -10,7 +10,7 @@ team:
     bio: "I am an Honors Computer Science student at The University of Alabama, currently pursuing a B.S. in Computer Science alongside an MBA through the STEM Path to the MBA program. With a background in both technical development and IT strategy, I have experience as a Web Development Intern at Kinetic Communications, where I managed front-end development and sitewide updates. Most recently, I served as an IT Analyst Intern at Milwaukee Tool, applying ITIL best practices and conducting User Acceptance Testing (UAT) to ensure system reliability. I am passionate about applying critical thinking to solve complex technical problems and delivering robust digital solutions."
   
   - name: "Tyler Bish"
-    image_path: /assets/images/TylerHeadshot.png
+    image_path: /assets/images/TylerHeadshot.jpg
     bio: "I am a Computer Science and Computer Engineering double major student pursuing my B.S. in both fields at The University of Alabama. Through my educational background dealing with both computer hardware and software, I am equipped to tackle almost any computer related problem with ease. I have experience applying my skills in software engineering and data analytics through back-to-back internships as a Quantitative Developer and Fixed Income Developer at StoneX Group Incorporated, a global financial services franchise. I am interested in exploring the intersection between finance and technology, as well as developing my skillset in software automation and machine learning integration."
 
   - name: "Ayush Singh"
