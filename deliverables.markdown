@@ -22,4 +22,8 @@ permalink: /deliverables/
 
 ## Sprint 1
 
-After meeting, finish this here and add backlog with goals
+[![Sprint 1 Goal Backlog Preview](/assets/images/Sprint1Board.png){: width="75%"}](/assets/documents/Sprint1GoalBacklog.pdf)
+{: .text-center}
+
+[View Current Sprint 1 Backlog](/assets/documents/Sprint1GoalBacklog.pdf){: .btn .btn--primary .btn--large}
+{: .text-center}
