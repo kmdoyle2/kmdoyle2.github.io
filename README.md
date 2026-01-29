@@ -32,3 +32,4 @@ This website uses the Minimal Mistakes Jekyll theme. To take advantage of the Mi
 | `deliverables.md` | The Deliverables page. Add links to PDFs/PPTs here. |
 | `about.md` | The Team page. Update bios and photos here. |
 | `assets/images/` | Upload photos here. (e.g., `assets/images/profile.jpg`) |
+| `assets/documents/` | Upload deliverables and docs here. (e.g., `assets/documents/pitch.pdf`) |
