@@ -34,7 +34,7 @@ permalink: /deliverables/
 [View Sprint 1 Planning Document](/assets/documents/Sprint1PlanningDocument.pdf){: .btn .btn--primary .btn--large target="_blank"}
 {: .text-center}
 
-[![Sprint 1 Goal Backlog Preview](/assets/images/Sprint1Board.png){: width="75%"}](/assets/documents/Sprint1GoalBacklog.pdf){: target="_blank"}
+[![Sprint 1 Goal Backlog Preview](/assets/images/Sprint1GoalBacklog.jpeg){: width="75%"}](/assets/documents/Sprint1GoalBacklog.pdf){: target="_blank"}
 {: .text-center}
 
 [View Sprint 1 Backlog](/assets/documents/Sprint1GoalBacklog.pdf){: .btn .btn--primary .btn--large target="_blank"}
