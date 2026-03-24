@@ -63,13 +63,13 @@ permalink: /deliverables/
 [View Sprint 2 Presentation](/assets/documents/InsightersWorkflow_Sprint_Presentation_2.pptx){: .btn .btn--primary .btn--large target="_blank"}
 {: .text-center}
 
-[![Sprint 2 Planning Document Preview](/assets/images/Sprint2Planning.jpg){: width="75%"}](/assets/documents/InsightersWorkflow_Sprint2PlanningDocument.pdf){: target="_blank"}
+[![Sprint 2 Planning Document Preview](/assets/images/Sprint2Planning.png){: width="75%"}](/assets/documents/InsightersWorkflow_Sprint2PlanningDocument.pdf){: target="_blank"}
 {: .text-center}
 
-[View Sprint 2 Planning Document](/assets/documents/Sprint2PlanningDocument.pdf){: .btn .btn--primary .btn--large target="_blank"}
+[View Sprint 2 Planning Document](/assets/documents/InsightersWorkflow_Sprint2PlanningDocument.pdf){: .btn .btn--primary .btn--large target="_blank"}
 {: .text-center}
 
-[![Sprint 2 Goal Backlog Preview](/assets/images/Sprint2GoalBacklog.jpeg){: width="75%"}](/assets/documents/InsightersWorkflow_Sprint2GoalBacklog.pdf){: target="_blank"}
+[![Sprint 2 Goal Backlog Preview](/assets/images/Sprint2GoalBacklog.png){: width="75%"}](/assets/documents/InsightersWorkflow_Sprint2GoalBacklog.pdf){: target="_blank"}
 {: .text-center}
 
 [View Sprint 2 Backlog](/assets/documents/InsightersWorkflow_Sprint2GoalBacklog.pdf){: .btn .btn--primary .btn--large target="_blank"}
@@ -81,8 +81,8 @@ permalink: /deliverables/
 [View Sprint 2 Retrospective](/assets/documents/InsightersWorkflow_Sprint2Retrospective.pdf){: .btn .btn--primary .btn--large target="_blank"}
 {: .text-center}
 
-[View Sprint 2 Scrum Discussions](/assets/documents/InsightersWorflow_Sprint2ScrumJournal.pdf){: .btn .btn--primary .btn--large target="_blank"}
+[View Sprint 2 Scrum Discussions](/assets/documents/InsightersWorkflow_Sprint2ScrumJournal.pdf){: .btn .btn--primary .btn--large target="_blank"}
 {: .text-center}
 
-[View Sprint 2 GitHub Contributions](/assets/documents/Sprint2CommitHistory.pdf){: .btn .btn--primary .btn--large target="_blank"}
+[View Sprint 2 GitHub Contributions](/assets/documents/InsightersWorkflow_Sprint2CommitHistory.pdf){: .btn .btn--primary .btn--large target="_blank"}
 {: .text-center}
