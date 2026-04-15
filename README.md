@@ -30,6 +30,7 @@ This website uses the Minimal Mistakes Jekyll theme. To take advantage of the Mi
 | `_config.yml` | Main site settings (title, description, theme). |
 | `index.md` | The Homepage. Edit this to update the project goals. |
 | `deliverables.md` | The Deliverables page. Add links to PDFs/PPTs here. |
+| `documentation.md` | The Documentation page. Add links to project documentation here. |
 | `about.md` | The Team page. Update bios and photos here. |
 | `assets/images/` | Upload photos here. (e.g., `assets/images/profile.jpg`) |
 | `assets/documents/` | Upload deliverables and docs here. (e.g., `assets/documents/pitch.pdf`) |

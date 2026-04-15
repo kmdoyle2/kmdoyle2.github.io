@@ -4,3 +4,6 @@ main:
 
   - title: "Deliverables"
     url: "/deliverables/"
+
+  - title: "Documentation"
+    url: "/documentation/"

@@ -86,3 +86,43 @@ permalink: /deliverables/
 
 [View Sprint 2 GitHub Contributions](/assets/documents/InsightersWorkflow_Sprint2CommitHistory.pdf){: .btn .btn--primary .btn--large target="_blank"}
 {: .text-center}
+
+## Sprint 3 [March 24th - April 16th]
+
+[![Sprint 3 Presentation Preview](/assets/images/Sprint3Presentation.jpg){: width="75%"}](/assets/documents/InsightersWorkflow_Sprint_Presentation_3.pptx){: target="_blank"}
+{: .text-center}
+
+[View Sprint 3 Presentation](/assets/documents/InsightersWorkflow_Sprint_Presentation_3.pptx){: .btn .btn--primary .btn--large target="_blank"}
+{: .text-center}
+
+[![Sprint 3 Planning Document Preview](/assets/images/Sprint3Planning.jpg){: width="75%"}](/assets/documents/InsightersWorkflow_Sprint3PlanningDocument.pdf){: target="_blank"}
+{: .text-center}
+
+[View Sprint 3 Planning Document](/assets/documents/InsightersWorkflow_Sprint3PlanningDocument.pdf){: .btn .btn--primary .btn--large target="_blank"}
+{: .text-center}
+
+[![Sprint 3 Goal Backlog Preview](/assets/images/Sprint3GoalBacklog.jpg){: width="75%"}](/assets/documents/InsightersWorkflow_Sprint3GoalBacklog.pdf){: target="_blank"}
+{: .text-center}
+
+[View Sprint 3 Backlog](/assets/documents/InsightersWorkflow_Sprint3GoalBacklog.pdf){: .btn .btn--primary .btn--large target="_blank"}
+{: .text-center}
+
+[![Sprint 3 Retrospective Preview](/assets/images/Sprint3Retrospective.jpg){: width="75%"}](/assets/documents/InsightersWorkflow_Sprint3Retrospective.pdf){: target="_blank"}
+{: .text-center}
+
+[View Sprint 3 Retrospective](/assets/documents/InsightersWorkflow_Sprint3Retrospective.pdf){: .btn .btn--primary .btn--large target="_blank"}
+{: .text-center}
+
+[View Sprint 3 Scrum Discussions](/assets/documents/InsightersWorkflow_Sprint3ScrumJournal.pdf){: .btn .btn--primary .btn--large target="_blank"}
+{: .text-center}
+
+[View Sprint 3 GitHub Contributions](/assets/documents/InsightersWorkflow_Sprint3CommitHistory.pdf){: .btn .btn--primary .btn--large target="_blank"}
+{: .text-center}
+
+## Final Cyber Assessment
+
+[![Final Cyber Assessment Preview](/assets/images/InsightersWorkflow_CyberAssessment.jpg){: width="75%"}](/assets/documents/InsightersWorkflow_CyberAssessment.pdf){: target="_blank"}
+{: .text-center}
+
+[Final Cyber Assessment](/assets/documents/InsightersWorkflow_CyberAssessment.pdf){: .btn .btn--primary .btn--large target="_blank"}
+{: .text-center}
