@@ -30,7 +30,7 @@ permalink: /documentation/
 
 ## Test Plan
 
-[![Test Plan Preview](/assets/images/test_plan.png){: width="75%"}](/assets/documents/TestPlan.pdf){: target="_blank"}
+[![Test Plan Preview](/assets/images/test_plan.jpg){: width="75%"}](/assets/documents/TestPlan.pdf){: target="_blank"}
 {: .text-center}
 
 [View Test Plan Docs](/assets/documents/TestPlan.pdf){: .btn .btn--primary .btn--large target="_blank"}

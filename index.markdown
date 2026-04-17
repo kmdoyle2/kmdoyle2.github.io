@@ -15,6 +15,14 @@ excerpt: "Streamlining business processes with intelligent workflow solutions."
 ---
 
 ## Project Goals
-The primary objective of the Insighters Inc. Workflow Automation project is to modernize and secure the client onboarding experience by eliminating three levels of manual redundancy in the onboarding process. We aim to automate manual data inputs and file generation, significantly reducing the time and effort required by internal accounting staff through the use of a Python Django application. Key goals include establishing a secure client intake form, automating internal file system setups through Citrix ShareFile, and providing workflow visibility in Monday.com to enhance progress tracking. This project seeks to reduce human error in the onboarding process and significantly cut down on time spent on manual repetitive tasks.
+The primary objective of the Insighters Inc. Workflow Automation project is to modernize and secure the client onboarding experience by eliminating three levels of manual redundancy in the onboarding process. We aim to automate manual data inputs and file generation, significantly reducing the time and effort required by internal accounting staff through the use of a Python Django application. Key goals include establishing a secure client intake form, providing workflow visibility in Monday.com to enhance progress tracking, and automating intake form PDF uploads . This project seeks to reduce human error in the onboarding process and significantly cut down on time spent on manual repetitive tasks.
 
 ## Project Video
+
+<div style="width: 100%; aspect-ratio: 16 / 9;">
+  <iframe 
+    src="https://www.youtube.com/embed/NIiRM6LL94w" 
+    style="width: 100%; height: 100%; border: none;" 
+    allowfullscreen>
+  </iframe>
+</div>

@@ -14,10 +14,13 @@ permalink: /deliverables/
 
 ## Project Backlog
 
-[![Project Backlog Preview](/assets/images/Sprint2ProjectBacklog.png){: width="75%"}](/assets/documents/InsightersWorkflow_Sprint2ProjectBacklog.pdf){: target="_blank"}
+[![Project Backlog Preview](/assets/images/Sprint3ProjectBacklog.jpg){: width="75%"}](/assets/documents/InsightersWorkflow_Sprint2ProjectBacklog.pdf){: target="_blank"}
 {: .text-center}
 
-[View Current Sprint 2 Project Backlog](/assets/documents/InsightersWorkflow_Sprint2ProjectBacklog.pdf){: .btn .btn--primary .btn--large target="_blank"}
+[View Final (Sprint 3) Project Backlog](/assets/documents/InsightersWorkflow_Sprint3ProjectBacklog.pdf){: .btn .btn--primary .btn--large target="_blank"}
+{: .text-center}
+
+[View Sprint 2 Project Backlog](/assets/documents/InsightersWorkflow_Sprint2ProjectBacklog.pdf){: .btn .btn--primary .btn--large target="_blank"}
 {: .text-center}
 
 [View Sprint 1 Project Backlog](/assets/documents/Sprint1ProjectBacklog.pdf){: .btn .btn--primary .btn--large target="_blank"}
@@ -121,7 +124,7 @@ permalink: /deliverables/
 
 ## Final Cyber Assessment
 
-[![Final Cyber Assessment Preview](/assets/images/InsightersWorkflow_CyberAssessment.jpg){: width="75%"}](/assets/documents/InsightersWorkflow_CyberAssessment.pdf){: target="_blank"}
+[![Final Cyber Assessment Preview](/assets/images/CyberAssessment.jpg){: width="75%"}](/assets/documents/InsightersWorkflow_CyberAssessment.pdf){: target="_blank"}
 {: .text-center}
 
 [Final Cyber Assessment](/assets/documents/InsightersWorkflow_CyberAssessment.pdf){: .btn .btn--primary .btn--large target="_blank"}
